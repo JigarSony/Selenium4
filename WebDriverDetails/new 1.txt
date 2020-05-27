@@ -1,0 +1,32 @@
+Webdriver - interface
+Alert - interface
+Super class of chromedriver in selenium - RemoteWebdriver
+Which keyword we use to call parent class constructor - super
+which keyword use to prevent method overriding - final
+operator overloading is possible in java - no
+can we serialize static variables and methods in java - no
+range of long in java -  -2^63 to 2^63
+bytes for short  2 bytes
+which class in selenium responsible for explicit wait and fluent wait - webdriver wait
+4 famous json parser - jackson Gson json jsonpath
+​google json, jackson, simple json, json soup
+in which ds LIFO-stack and FIFO - queue - 
+latest selenium version - 3.141.59
+new name of jenkins pipeline - blue ocen
+four important sections of pom.xml - project info - properties - plugins - dependencies
+which git command use to change the branch name locally - git checkout "branchname"
+git cherrypick - 
+git cherry-pick is a powerful command that enables arbitrary Git commits to be picked by reference and appended to the current working HEAD.
+in testng methods with priprity and without priority what is sequence - priority first and then alphabates order
+http://makeseleniumeasy.com/2018/06/10/testng-tutorials-22-test-annotation-games-of-priority-of-methods-in-testng/
+can we have negative priority - yes
+give sequence of beforclass, beformethod,before test and before suite -> suite - test- class - method
+give me all methods name define in searchcontexinterface on selenium - find element and elements
+find element and elements implementation are defined - RemoteWebdriver
+in xpath - switch to child to patent tag - /.. and parent keyword
+what is the super class of exception and error - Throwable
+super class of throwable - object
+can we override static method - no static are not part of object - violation of override
+what is rerurn type of driver.get.windows.handle - set of string
+how do we get value of set objects - iterator, converted into list
+what are the possible ways of Binary tree - pre post in, level,zizzag,circular 
